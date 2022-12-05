@@ -14,8 +14,8 @@
 [![img_contact](./img/globe-light.svg)](https://antoninwinterstein.com/#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://antoninwinterstein.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/antonin-winterstein-9b5478175/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/antonin-winterstein-9b5478175/#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](*https://www.linkedin.com/in/antonin-winterstein-9b5478175/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](*https://www.linkedin.com/in/antonin-winterstein-9b5478175/#gh-dark-mode-only)
 
 ### Languages and Tools
 
@@ -38,5 +38,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redo18&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://antoninwinterstein.com/
+[website]: 
 
