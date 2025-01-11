@@ -1,4 +1,4 @@
-### Hi, I'm Radouane Garoiaz! ✨🎄🎃✨
+### Hi, I'm Dudu49! ✨🎄🎃✨
 
 *Actually student in 1st year of the Master Internet of Things at H3 Hetima (https://www.h3hitema.fr/).* 👨‍🎓
 
