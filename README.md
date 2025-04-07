@@ -1,7 +1,5 @@
 ### Hi, I'm Dudu49! ✨🎄🎃✨
 
-*Actually student in 1st year of the Master Internet of Things at H3 Hetima (https://www.h3hitema.fr/).* 👨‍🎓
-
 **About me**
 
 - 🌎 I have a passion for the field of the web and more particularly the development
